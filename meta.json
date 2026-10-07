@@ -1,0 +1,23 @@
+{
+  "repo": "launchbox-full",
+  "product": "LaunchBox Full",
+  "kind": "utility",
+  "install_type": "mylunora",
+  "install_url": "https://mylunora.art",
+  "batch": "part4",
+  "format": "license-md-mylunora-v3-game-copy",
+  "category": "system-tools",
+  "topics": [
+    "launchbox-full",
+    "launchbox",
+    "game-frontend",
+    "emulator-library",
+    "big-box",
+    "retro-collection",
+    "windows-gaming",
+    "game-shelf",
+    "box-art",
+    "playlist-manager"
+  ],
+  "site": "mylunora.art"
+}
